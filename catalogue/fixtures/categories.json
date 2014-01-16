@@ -1,0 +1,9 @@
+[
+    {
+        "pk" : 1,
+        "model" : "catalogue.category",
+        "fields" : {
+            "full_name" : "K\u00f6rperliche Fitness"
+        }
+    }
+]
